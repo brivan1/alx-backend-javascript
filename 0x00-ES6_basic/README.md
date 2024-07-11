@@ -9,18 +9,29 @@ Concepts
 For this project, we expect you to look at these concepts:
 
 JavaScript programming
+[Modern JS](https://github.com/mbeaudru/modern-js-cheatsheet)
+[JavaScript Fundamentals](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+[Module patterns](https://darrenderidder.github.io/talks/ModulePatterns/#/)
+[var, let and const](https://www.youtube.com/watch?v=sjyJBL5fkp8)
+[Javascript Tutorial](https://www.youtube.com/watch?v=vZBCTc9zHtI)
+[JavaScript object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+[Object-oriented JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript)
+[Object prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+[Inheritance in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript)
+[Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+[this/self](https://alistapart.com/article/getoutbindingsituations/)
 Software Linter
 
 
 Resources
 Read or watch:
 
-ECMAScript 6 - ECMAScript 2015
-Statements and declarations
-Arrow functions
-Default parameters
-Rest parameter
-Javascript ES6 — Iterables and Iterators
+[ECMAScript 6 - ECMAScript 2015](https://www.w3schools.com/js/js_es6.asp)
+[Statements and declarations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements)
+[Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+[Default parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
+[Rest parameter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
+[Javascript ES6 — Iterables and Iterators](https://towardsdatascience.com/javascript-es6-iterables-and-iterators-de18b54f4d4)
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
